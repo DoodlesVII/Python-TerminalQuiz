@@ -1,0 +1,5 @@
+What keyword is used to define a function in Python?|def
+Which data type is used to store True or False values?|bool
+What built-in function returns the number of items in a list?|len
+What symbol is used for single-line comments in Python?|#
+What file mode opens a file for appending without overwriting it?|a
